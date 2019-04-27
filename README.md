@@ -3,6 +3,11 @@ Implementation of classification algorithms on BlackFriDay Dataset
 
 
 
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn6jZZjxjMXjsEjvj6MlSvwYYiESTuulQmLJs_eGQ9dhbxaz4I)
+
+
+
 ## Accuracy 
  KNN: 0.194444 (0.141639)
  
