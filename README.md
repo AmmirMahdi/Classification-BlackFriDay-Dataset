@@ -23,7 +23,7 @@ Implementation of classification algorithms on BlackFriDay Dataset
  
  LDA: 0.500000 (0.136083)
  
- Exta: 0.194444 (0.141639)
+ ExtaTree: 0.194444 (0.141639)
 
 
 ## Dataset
